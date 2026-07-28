@@ -1,3 +1,8 @@
-this is demo2 file 
-which is pushed in the dev 
-branch . 
+Types of DSA 
+STACK
+QUEUE
+LINKED_LIST
+TREES
+GRAPHS
+HASH_FUNCTIONS
+
