@@ -1,1 +1,13 @@
-welcome to the github
+Git commands:
+git init
+git remote add name <git_url>
+git branch <br_name>
+git checkout <br_name>
+git add <path>
+git commit -m "commit message"
+git push -u <remote_name> <branch_name>
+git fetch
+git pull<remote_name> <branch_name>
+git merge <local_branch>
+git rebase
+git status
