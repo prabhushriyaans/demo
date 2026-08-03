@@ -1,0 +1,11 @@
+READ , EVAL, Print, Loop.
+Class : PascalCase
+objects/variables/functions: snakecase
+constants: SCREAMING_SNAKE_CASE.
+functions:camelCase
+immutable : int , float double, bool
+mutable: list tuple,set ,dict
+operators: aritmethic : + - / * // ** %
+compariosn: == >= <= > < !=
+assignment: =,+=,-=,*=,/=,%=,//=,**=
+Logical: and or not 
