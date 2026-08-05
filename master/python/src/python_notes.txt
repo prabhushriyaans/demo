@@ -9,3 +9,11 @@ operators: aritmethic : + - / * // ** %
 compariosn: == >= <= > < !=
 assignment: =,+=,-=,*=,/=,%=,//=,**=
 Logical: and or not 
+
+
+decalre list  find 2 largest number
+declare string . get vowel count .
+create a list with input and print odd numbers and exit for 0
+create a matrix with no duplicate values 
+
+ 

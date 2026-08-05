@@ -1,0 +1,15 @@
+from DSA import Stack as st
+from DSA import Queue as Q
+Ob=st()
+Ob2=Q()
+Ob.push(1)
+print(Ob.pop())
+Ob2.enqueue(10)
+Ob2.enqueue(20)
+Ob2.enqueue(30)
+Ob2.enqueue(40)
+Ob2.enqueue(50)
+print(Ob2.front())
+Ob2.dequeue()
+print(Ob2.front())
+print(Ob2.back())
