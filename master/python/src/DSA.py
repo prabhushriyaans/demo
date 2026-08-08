@@ -35,7 +35,6 @@ class Queue:
         else:
             return self.q[-1]
 
-class Linked_list:
-    def __init__(self):
+# class Linked_list:
+#     def __init__(self):
         
-
